@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"二手避坑助手：分品类验机清单、成色定价框架、交易安全模板","name":"lhg-secondhand","source":"./"}]}
